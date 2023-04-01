@@ -1,10 +1,8 @@
 # Project 5
 
 # Samed Ganibegovic
-# Operating Systems CS4760
 
-# Assignment 3: Memory Management
-# Due: April 26th 2021
+# Memory Management
 
 ---------------------------------------------------------------------------
 
@@ -44,4 +42,4 @@ The main and biggest issue was that I could not get the project running with the
 
 Link to version control:
 
-https://github.com/sg-21/cs4760_project5
+https://github.com/samedg98/project5
